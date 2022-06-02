@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "cascade",
+    "name": "Cascade",
+    "description": "COol Client",
+    "version": "0.2.0",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Zenov, Kambing"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
